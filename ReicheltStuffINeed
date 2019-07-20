@@ -1,3 +1,4 @@
+Legacy{
 - Festplatte f. Bananapi
 - SD-Karten
 - 2x Anschlussdosen(https://www.reichelt.de/1-fach-rj45-anschlussdose-cat-6-aufputz-lsa-equip-235211-p164750.html?&trstct=pos_0)
@@ -14,9 +15,15 @@ ERRINERUNG: STÜCK KABELKANAL BESORGEN !!!
 
 Keystone:
 - Dose x4
-- Dose x2/x1 -> Gute Frage
 - Modules:
 	- HDMI
 	- 3.5 Modules
-	- ethernet
-- Maybe Patchpanel
+	- USB
+- USB Netzteil
+}
+new
+{
+- 2x rackmountable steckdosenleist (4x o.Ä.)
+- HDMI Kabel (Keystone <-> Fernseher)
+
+}
