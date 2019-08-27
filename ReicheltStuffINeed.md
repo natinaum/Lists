@@ -25,5 +25,7 @@ new
 {
 - 2x rackmountable steckdosenleist (4x o.Ä.)
 - HDMI Kabel (Keystone <-> Fernseher)
-
+- HDMI Audio Extractor: N VEXT3400AT
+- HDMI Audio Inserter: IDA HDMI-AI4K
+- HDMI Matrix Switch
 }
