@@ -1,4 +1,5 @@
-Legacy{
+Legacy
+------
 - Festplatte f. Bananapi
 - SD-Karten
 - 2x Anschlussdosen(https://www.reichelt.de/1-fach-rj45-anschlussdose-cat-6-aufputz-lsa-equip-235211-p164750.html?&trstct=pos_0)
@@ -20,12 +21,12 @@ Keystone:
 	- 3.5 Modules
 	- USB
 - USB Netzteil
-}
+
 new
-{
+---
 - 2x rackmountable steckdosenleist (4x o.Ä.)
 - HDMI Kabel (Keystone <-> Fernseher)
 - HDMI Audio Extractor: N VEXT3400AT
 - HDMI Audio Inserter: IDA HDMI-AI4K
 - HDMI Matrix Switch
-}
+
