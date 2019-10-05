@@ -18,3 +18,6 @@ CJKoptions: AutoFakeBold
 - Tools:
     - Schraubenzieher: Wera 051024 Kraftform Kompakt 25 Pouch Set
     - Schieblehre
+    - Multitool: Gerber MP400
+- dump stuff:
+    - usbattery
