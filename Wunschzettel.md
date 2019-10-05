@@ -15,3 +15,6 @@ CJKoptions: AutoFakeBold
 - HDMI Kabel
 - Tee
 - ~~Chalkbag~~
+- Tools:
+    - Schraubenzieher: Wera 051024 Kraftform Kompakt 25 Pouch Set
+    - Schieblehre
