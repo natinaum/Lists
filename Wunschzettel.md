@@ -7,17 +7,17 @@ CJKoptions: AutoFakeBold
 - Musik
 	- Ofnir - Heilung
 	- 太鼓  - Danger
+	- Long Stories - Amon Tobin
 - Bücher
-	- ~~Jagd auf roter Oktober -Tom Clancy~~
 	- Irgendwas von Terry Pratchett
 - Kuchen
-- ~~paar Sportschuhe :)~~
 - HDMI Kabel
 - Tee
-- ~~Chalkbag~~
 - Tools:
     - Schraubenzieher: Wera 051024 Kraftform Kompakt 25 Pouch Set
     - Schieblehre
     - Multitool: Gerber MP400
-- dump stuff:
+- Exen (Klettern)
+- dumb stuff:
     - usbattery
+    
