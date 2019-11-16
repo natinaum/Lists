@@ -20,4 +20,5 @@ CJKoptions: AutoFakeBold
 - Exen (Klettern)
 - dumb stuff:
     - usbattery
-    
+- Spiele:
+    - Star Wars Jedi: Fallen Order
