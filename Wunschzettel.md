@@ -22,3 +22,4 @@ CJKoptions: AutoFakeBold
     - usbattery
 - Spiele:
     - Star Wars Jedi: Fallen Order
+- White Board
