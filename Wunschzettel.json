@@ -1,0 +1,31 @@
+{
+    "Wunschzettel":{
+        "Musik":{
+          "Bezeichnung": "Ofnir - Heilung",
+          "Bezeichnung": "太鼓  - Danger",
+          "Bezeichnung": "Long Stories - Amon Tobin",
+        },
+        "Bücher":{
+          "Bezeichnung": "Irgendwas von Terry Pratchett",
+          "Bezeichnung": "R f. dummies",
+        },
+        "Bezeichnung": "Kuchen",
+        "Bezeichnung": "HDMI Kabel",
+        "Bezeichnung": "Tee",
+        "Tools":{
+            "Bezeichnung": "Schraubenzieher: Wera 051024 Kraftform Kompakt 25 Pouch Set",
+            "Bezeichnung": "Schieblehre",
+            "Bezeichnung": "Multitool: Gerber MP400",
+        },
+        
+        "Klettern":{
+          "Bezeichnung": "Exen",
+        },
+        "dumb stuff":{
+            "Bezeichnung": "usbattery",
+        },
+        "Spiele":{
+            "Bezeichnung": "Star Wars Jedi: Fallen Order",
+        }
+    
+}
