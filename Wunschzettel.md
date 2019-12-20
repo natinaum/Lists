@@ -10,6 +10,7 @@ CJKoptions: AutoFakeBold
 	- Long Stories - Amon Tobin
 - Bücher
 	- Irgendwas von Terry Pratchett
+	- Data Science from Scratch: First Principles with Python
 - Kuchen
 - HDMI Kabel
 - Tee
