@@ -17,12 +17,10 @@ CJKoptions: AutoFakeBold
 - Tools:
     - Schraubenzieher: Wera 051024 Kraftform Kompakt 25 Pouch Set
     - Schieblehre
-    - ~~Multitool: Gerber MP400~~
 - Exen (Klettern)
 - dumb stuff:
     - usbattery
 - Spiele:
     - Star Wars Jedi: Fallen Order
 - White Board
-- ~~Laptop Tasche~~
-
+- Hängematte
