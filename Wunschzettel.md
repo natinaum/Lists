@@ -23,4 +23,4 @@ CJKoptions: AutoFakeBold
 - Spiele:
     - Star Wars Jedi: Fallen Order
 - White Board
-- Hängematte
+- Slackline
