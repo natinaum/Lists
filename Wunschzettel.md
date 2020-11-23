@@ -18,7 +18,7 @@ CJKoptions: AutoFakeBold
     - Schraubenzieher: Wera 051024 Kraftform Kompakt 25 Pouch Set
    
 - Fallschirmsprung
-- halbwegs brauchbare Kamera, gerne auch analog
+- hook, spanner und Übungsschlösser
 
 
 
