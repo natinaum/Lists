@@ -7,16 +7,13 @@ CJKoptions: AutoFakeBold
 - Musik
 	- Ofnir - Heilung
 	- 太鼓  - Danger
-	- Long Stories - Amon Tobin
 - Bücher
 	- Irgendwas von Terry Pratchett
 	- Data Science from Scratch: First Principles with Python
+	- Unter Palmen aus Stahl: Die Geschichte eines Straßenjungen -  Dominik Bloh
 - Kuchen
 
 - Tee
-- Tools:
-    - Schraubenzieher: Wera 051024 Kraftform Kompakt 25 Pouch Set
-   
 - Fallschirmsprung
 - hook, spanner und Übungsschlösser
 
