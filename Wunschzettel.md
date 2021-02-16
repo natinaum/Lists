@@ -9,7 +9,6 @@ CJKoptions: AutoFakeBold
 	- 太鼓  - Danger
 - Bücher
 	- Irgendwas von Terry Pratchett
-	- ~~Data Science from Scratch: First Principles with Python~~
 	- Unter Palmen aus Stahl: Die Geschichte eines Straßenjungen - Dominik Bloh
 	- Overcoming Gravity 2nd Edition - Steven Low
 - Kuchen
