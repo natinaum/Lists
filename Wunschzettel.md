@@ -16,6 +16,6 @@ CJKoptions: AutoFakeBold
 - Tee
 - Fallschirmsprung
 - hook, spanner und Übungsschlösser
-
-
-
+- turnringe Holz
+- bartschere
+- bartkamm 
