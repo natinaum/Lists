@@ -16,6 +16,10 @@ CJKoptions: AutoFakeBold
 - Tee
 - Fallschirmsprung
 - hook, spanner und Übungsschlösser
-- turnringe Holz
-- bartschere
-- bartkamm 
+- Sportzeug:
+    - turnringe Holz
+    - hantelzeug
+- Bartzeug:
+    - bartschere
+    - bartkamm
+    - rasieröl 
