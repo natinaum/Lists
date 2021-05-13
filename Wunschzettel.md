@@ -10,7 +10,6 @@ CJKoptions: AutoFakeBold
 - Bücher
 	- Irgendwas von Terry Pratchett
 	- Unter Palmen aus Stahl: Die Geschichte eines Straßenjungen - Dominik Bloh
-	- Overcoming Gravity 2nd Edition - Steven Low
 - Kuchen
 
 - Tee
@@ -20,6 +19,5 @@ CJKoptions: AutoFakeBold
     - turnringe Holz
     - hantelzeug
 - Bartzeug:
-    - bartschere
-    - bartkamm
-    - rasieröl 
+    - pre shaverasieröl
+- Fahrradtasche keine neon farbe, kein rosa 
