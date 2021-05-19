@@ -10,6 +10,7 @@ CJKoptions: AutoFakeBold
 - Bücher
 	- Irgendwas von Terry Pratchett
 	- Unter Palmen aus Stahl: Die Geschichte eines Straßenjungen - Dominik Bloh
+        - the great Illusion - Sir Norman Angell
 - Kuchen
 
 - Tee
