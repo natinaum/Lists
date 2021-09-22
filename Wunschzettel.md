@@ -11,6 +11,7 @@ CJKoptions: AutoFakeBold
 	- Irgendwas von Terry Pratchett
 	- Unter Palmen aus Stahl: Die Geschichte eines Straßenjungen - Dominik Bloh
         - the great Illusion - Sir Norman Angell
+        - Visible Learning - A synthesis of over 800 meta-analyses relating to achievement, Routledge
 - Kuchen
 
 - Tee
