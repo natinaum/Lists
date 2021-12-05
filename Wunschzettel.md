@@ -12,3 +12,10 @@ CJKoptions: AutoFakeBold
 - Tee
 - Fallschirmsprung
 - hook, spanner und Übungsschlösser
+- Koch Dinge:
+        - Wok
+        - gusspfannen ... Die nicht den herd ruinieren
+        - vernünftiges Küchenmesser
+        - kleine geschirrtücher in mengen (zum pfanne/messer ab/auswischen)
+
+
