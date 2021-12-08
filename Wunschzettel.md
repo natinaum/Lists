@@ -19,4 +19,5 @@ CJKoptions: AutoFakeBold
     - vernünftiges Küchenmesser
     - kleine geschirrtücher in mengen (zum pfanne/messer ab/auswischen)
 
-
+- warme winter handschuhe
+'''    So die Richtung :   https://www.avocadostore.de/products/220100-naturfell-herren-lammfell-finger-handschuhe-naturfell-paradies?variant_id=1729609 '''
