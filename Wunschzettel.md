@@ -21,3 +21,5 @@ CJKoptions: AutoFakeBold
 
 - warme winter handschuhe
 '''    So die Richtung :   https://www.avocadostore.de/products/220100-naturfell-herren-lammfell-finger-handschuhe-naturfell-paradies?variant_id=1729609 '''
+
+- socken/unterhosen 
